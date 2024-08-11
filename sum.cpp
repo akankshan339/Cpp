@@ -1,0 +1,1 @@
+//WAP having no of sum() methods which are used to sum the provided arguments

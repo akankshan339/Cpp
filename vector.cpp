@@ -1,0 +1,2 @@
+//craete a vector add 5 names .Traverse vector and show names , add 2 new names in last ,remove from last ,show size 
+//add new name at start and at 4 th  position ,remove all names and then show capacity

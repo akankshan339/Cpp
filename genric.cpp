@@ -1,0 +1,1 @@
+//Overload genric func sum() as given in program sumfunc with 3 argumnets
